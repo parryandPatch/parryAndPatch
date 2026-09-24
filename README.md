@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on documenting and creating my Python-based Linux hardware monitor .<br><br>👯 Looking to collaborate on beginner-friendly open-source projects, especially documentation for Linux-related projects.<br><br>🌱 Learning about GitHub workflows, and operating systems.<br><br>💬 Ask me about Linux, RPCS3 or other emulator based topics.<br>
+# 🎳 About Me:
+🔭 I’m currently working on documenting and creating my Python-based Linux hardware monitor .<br><br>👯 Looking to collaborate on beginner-friendly open-source projects, especially documentation for Linux-related projects.<br><br>🌱 Learning about GitHub workflows, and operating systems.<br><br>💬 Ask me about Linux, RPCS3 or CrossOver.<br>
 
 
 ## 🌐 Socials:
